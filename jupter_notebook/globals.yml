@@ -1,0 +1,13 @@
+---
+  # Result files
+  RESULTS_DIR: "results"
+
+  # Data files
+  DATA_DIR: "../../../../data/rome"
+  STATS_DIR: "../../../../data/rome/status"
+
+  # Hyperparameters
+  HPARAMS_DIR: "hparams"
+
+  # Remote URLs
+  REMOTE_ROOT_URL: "https://rome.baulab.info"
