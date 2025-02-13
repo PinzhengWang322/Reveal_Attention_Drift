@@ -118,7 +118,7 @@ def layer_stats(
 
     model_name = model_name.split('hf_models_')[-1]
     stats_dir = Path(stats_dir)
-    file_extension = f"EleutherAI_gpt-j-6B/{ds_name}_stats/{layer_name}_{precision}_{'-'.join(sorted(to_collect))}{size_suffix}.npz"
+    file_extension = f"gpt2-xl/{ds_name}_stats/{layer_name}_{precision}_{'-'.join(sorted(to_collect))}{size_suffix}.npz"
     filename = stats_dir / file_extension
 
     print(filename)
