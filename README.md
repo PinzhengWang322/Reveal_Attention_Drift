@@ -49,3 +49,15 @@ The results will be shown in results.md.
 Our model achieves impressive performance metrics, as shown in the figure below:
 
 ![Results](./figs/results.png)
+
+## Citation
+```
+@article{wangrevealing,
+  title={Revealing and Mitigating Over-Attention in Knowledge Editing},
+  author={Wang, Pinzheng and Tang, Zecheng and Zhou, Keyan and Li, Juntao and Zhu, Qiaoming and Zhang, Min},
+  journal={arXiv preprint arXiv:2502.14838},
+  year={2025}
+}
+```
+
+
