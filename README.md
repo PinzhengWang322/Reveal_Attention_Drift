@@ -1,6 +1,6 @@
 # Revealing and Mitigating Over-Attention in Knowledge Editing
 
-This repository contains the official implementation of the paper "Revealing and Mitigating Over-Attention in Knowledge Editing." 
+This repository contains the official implementation of the paper ["Revealing and Mitigating Over-Attention in Knowledge Editing"](https://arxiv.org/abs/2502.14838).
 The instructions for setting up and running the experiments described below. We also provide a demo on Colab for a quick understanding of the attention drift phenomenon in knowledge editing. Feel free to open an issue if you encounter any problems.  
 
 [![Colab ROME Demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WjqxidJwC-HCgqrl70k_g61lQ-HPAycZ?usp=sharing)
